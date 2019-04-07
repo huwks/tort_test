@@ -1,0 +1,129 @@
+## 104
+
+## SYSTEM ANALYSIS
+
+## ELECTRICAL CONNECTIONS
+
+# ELECTRICAL
+
+# CONNECTIONS
+
+## Inspect wiring and electrical connections. Disas-
+
+## semble and clean all corroded connections.
+
+## Replace damaged wiring, connectors, or termi-
+
+## nals. Repair any shorted electrical circuits. Refer
+
+## to wiring diagrams and reference charts to identify
+
+## specific wiring details.
+
+## IMPORTANT: The key to effective troubleshoot-
+
+## ing is confirming the proper operation of each
+
+## engine system. Causes of electrical failures may
+
+## be difficult to isolate. Check the integrity of all con-
+
+## nections, grounds, and wiring prior to replacing a
+
+## suspect component.
+
+## Inspect the condition and positioning of the follow-
+
+## ing components:
+
+## • Engine Management Module ( EMM ): wiring to
+
+## EMM connectors and pins
+
+## • Stator: connections to EMM , wiring to connec-
+
+## tors, and connector pins
+
+## • Engine wiring harness and connectors
+
+## Stator to EMM Connectors
+
+## J1-A Connector
+
+#### 002025
+
+### Pin
+
+### No. Description of Circuit Wire Color
+
+### 1. Stator winding (yellow) Ye l l o w / W h i t e
+
+### 2. Stator winding (yellow) Ye l l o w
+
+### 3. Stator winding (orange) Orange/White
+
+### 4. Stator winding (orange) Orange
+
+### 5. Stator winding (brown) Brown/White
+
+### 6. Stator winding (brown) Brown
+
+#### 001875
+
+### Pin
+
+### No. Description of Circuit Wire Color
+
+### 1. Oil Pressure switch Ta n / W h i t e
+
+### 2. Diagnostic connector Red
+
+### 3. Diagnostic connector White
+
+### 4. vacant
+
+### 5. vacant
+
+### 6. Crankshaft position sensor (CPS) Yellow
+
+### 7. CPS ground (digital) White
+
+### 8. Bootstrap connector (programming) Blk/Orange
+
+### 9. Stop circuit Blk/Yellow
+
+### 10. Throttle position sensor (TPS) 5 V Red
+
+### 11. vacant
+
+### 12. vacant
+
+### 13. vacant
+
+### 14. vacant
+
+### 15. 12 V to EMM (fused) Red/Purple
+
+### 16. Ta c h o m e t e r Gray
+
+### 17. SystemCheck , CHECK ENGINE light Tan/Orange
+
+18. TPS analog ground Green
+19. Engine temperature sensor (water) Pink/Black
+20. Air temperature sensor Pink/Blue
+21. vacant
+22. vacant
+23. vacant
+24. _SystemCheck_ , NO OIL light Ta n / Ye l l o w
+25. _SystemCheck_ WATER TEMP light Tan
+26. TPS ground (analog) Black
+27. Engine temp. sensor ground (analog) Black
+28. Air temperature sensor ground (analog) Black
+29. Neutral switch (shift linkage) Ye l l o w / R e d
+30. vacant
+31. vacant
+32. vacant
+33. vacant
+34. vacant
+
+
